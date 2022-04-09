@@ -1,2 +1,4 @@
 To jest plik testowy.
 Ćwiczę dzialanie na reporytoriach w GitHub
+
+Tu są zmiany do testowania komendy git pull
