@@ -1,0 +1,2 @@
+To jest plik testowy.
+Ćwiczę dzialanie na reporytoriach w GitHub
